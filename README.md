@@ -4,4 +4,4 @@ This project aims to conduct a comprehensive analysis of sales data during the D
 
 Tools and Data Sets-
 1-Google Colab Python and
-2-Festival Sales data xlxs file
+Festival Sales data xlxs file
